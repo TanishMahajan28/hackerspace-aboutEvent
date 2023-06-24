@@ -101,7 +101,7 @@ const App = () => {
                         <p style={textStyle}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </div>
-                <div style={{position: 'relative', width: '92%', height: 90,}}><img src={backButton} style={{position: 'absolute', width: '45px', height: '45px', bottom: 0, right: 0}} /></div>
+                <div style={{position: 'relative', width: '93%', height: 90,}}><img src={backButton} style={{position: 'absolute', width: '45px', height: '45px', bottom: 0, right: 0}} /></div>
                 <div style={{position: 'relative', width: '99%', height: 90,}}><img src={forwardButton} style={{position: 'absolute', width: '70px', height: '70px', bottom: 0, right: 0}} /></div>
 
             </div>           
