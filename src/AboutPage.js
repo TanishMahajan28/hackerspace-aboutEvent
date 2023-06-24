@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import backButton from './Back Button.png';
 import forwardButton from './Forward Button.png';
-import bgImg from './BGIMG';
+// import bgImg from './BGIMG';
 
 const App = () => {
 
