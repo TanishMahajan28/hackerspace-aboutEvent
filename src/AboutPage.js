@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import backButton from './Back Button.png';
 import forwardButton from './Forward Button.png';
-import bgImg from './Frame 3473.jpg';
+import bgImg from './BGIMG';
 
 const App = () => {
 
@@ -47,40 +47,6 @@ const App = () => {
         fontWeight: '700',
 
     } 
-
-    // const circleStyle1 = {
-    //     padding:10,
-    //     margin:20,
-    //     borderRadius: 35.533,
-    //     width:20,
-    //     height:20,
-    //     flexDirection: 'column',
-    //     display:"flex",
-    //     justifyContent: "space-between",
-    //     alignItems: 'center',
-    //     gap: 9.33,
-    //     marginRight: 145,
-    //     border: '2px solid #FFF',
-    //     background: 'rgba(255, 255, 255, 0.20)',
-    //     backdropFilter: 'blur(76)',
-    //     marginRight: 145
-    //     };
-    
-    // const circleStyle2 = {
-    //     padding:10,
-    //     margin:20,
-    //     backgroundColor: 'Pink',
-    //     borderRadius: "50%",
-    //     width:50,
-    //     height:50,
-    //     borderLeft:'2px red solid',
-    //     borderRight:'2px red solid',
-    //     borderTop:'2px red solid',
-    //     borderBottom:'2px red solid',
-    //     display:"flex",
-    //     justifyContent: "space-between",
-    //     flexDirection: "column"
-    //  };
 
     return (
         <>
